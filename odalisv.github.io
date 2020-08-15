@@ -10,7 +10,7 @@ avatar: https://avatars0.githubusercontent.com/u/69409971?s=400&u=c1969b99a349f0
 footer-links:
 
 facebook: Odalis Vera
-github:   Odalis-v
+github: Odalis-v
 instagram: odalis_v23
 
 
@@ -26,8 +26,8 @@ sass:
   
   
 gems:
- -jekyll-sitemap
- -jekyll-feed
+ - jekyll-sitemap
+ - jekyll-feed
   
   
 exclude: 
