@@ -1,5 +1,5 @@
 
-name : Odalis Vera García
+name : Odalis Vera Garcia
 
 description: Mi blog personal 
 
