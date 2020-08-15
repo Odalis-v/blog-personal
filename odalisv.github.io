@@ -26,14 +26,14 @@ sass:
   
   
 gems:
-  - jekyll-sitemap
-  - jekyll-feed
+ -jekyll-sitemap
+ -jekyll-feed
   
   
 exclude: 
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - CNAME
+ - Gemfile
+ - Gemfile.lock
+ - LICENSE
+ - README.md
+ - CNAME
   
