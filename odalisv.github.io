@@ -16,10 +16,10 @@ instagram: odalis_v23
 
 markdown: kramdon
 highlighter: rouge
-permalink: /:tittle/
+permalink: /:title/
 
 
-version: v1.1.2
+version: v1.1.0
 
 sass:
   style: expanded
