@@ -9,7 +9,6 @@ avatar: https://avatars0.githubusercontent.com/u/69409971?s=400&u=c1969b99a349f0
 
 footer-links:
 
-email: odalis-v23@outlook.com
 facebook: Odalis Vera
 github:   Odalis-v
 instagram: odalis_v23
